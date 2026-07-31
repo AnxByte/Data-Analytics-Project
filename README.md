@@ -1,4 +1,4 @@
-# Data-Analytics-Project
+# Deloitte Forensic Dashboard
 
 ## Project Overview
 This Tableau dashboard analyzes forensic data to identify unhealthy devices across different factories and device types.
@@ -6,7 +6,7 @@ This Tableau dashboard analyzes forensic data to identify unhealthy devices acro
 ## Tools Used
 - Tableau Desktop
 
-## Dashboard Feature
+## Dashboard Features
 - Factory-wise analysis
 - Device type analysis
 - Interactive dashboard
