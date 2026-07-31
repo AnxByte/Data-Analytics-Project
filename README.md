@@ -5,6 +5,7 @@ This Tableau dashboard analyzes forensic data to identify unhealthy devices acro
 
 ## Tools Used
 - Tableau Desktop
+- Microsoft Excel
 
 ## Dashboard Features
 - Factory-wise analysis
@@ -12,5 +13,6 @@ This Tableau dashboard analyzes forensic data to identify unhealthy devices acro
 - Interactive dashboard
 
 ## Files
+- Forensic_Data.xlsx
 - Deloitte_Forensic_Dashboard.twbx
 - Tableau_Dashboard.png
